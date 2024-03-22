@@ -17,9 +17,3 @@ Edit `src/public/token-config.js` and `src/public/secret.json` with the appropri
 ```bash
 $ npm run create-token
 ```
-
-### Create LP pool and snipe
-Edit `src/public/snipe-config.js` and `src/public/secret.json` with the appropriate values.
-```bash
-$ npm run snipe-lp
-```
